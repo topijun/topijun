@@ -1,4 +1,4 @@
-🔭 I’m currently learning mobile development as part of my studies at kood/Sisu.
+I’m currently learning mobile development as part of my studies at kood/Sisu.
 
 <!--
 **topijun/topijun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
